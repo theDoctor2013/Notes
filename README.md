@@ -2,6 +2,10 @@
 
 [toc]
 
+$$
+\sum_x^nx^2=1
+$$
+
 Notes
 aabbcc
 
